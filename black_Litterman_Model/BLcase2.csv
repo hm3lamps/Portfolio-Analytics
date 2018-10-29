@@ -1,0 +1,171 @@
+Risk Aversion,3.0
+Tau,0.1
+Market Variance,0.0019293205298343199
+Market Exp. Excess Return,0.00578796158950296
+Standard Deviation,0.043924031347706685
+Sharpe Ratio,0.13177209404312007
+
+
+Market Weights
+US Equity,Foreign Equity,Emerging Equity,
+0.5,0.4,0.1,
+
+
+Prior Returns
+US Equity,Foreign Equity,Emerging Equity,
+ 0.00529611,0.00604146,0.00723321,
+
+
+Covariance * tau
+,US Equity,Foreign Equity,Emerging Equity,
+US Equity,0.000184566,0.00015986,0.0002031,
+Foreign Equity,0.00015986,0.000243803,0.000239307,
+Emerging Equity,0.0002031,0.000239307,0.000438342,
+
+
+
+
+VIEWS
+P,US Equity,Foreign Equity,Emerging Equity,
+view1,1,0,0,
+view2,0,1,-1,
+
+
+,Q
+US Equity,0.015,
+Foreign Equity,0.03,
+
+
+Omega
+US Equity,1.84566e-05,-4.32402e-06,
+Foreign Equity,-4.32402e-06,2.03532e-05,
+
+
+Diagonal Omega
+US Equity,1.84566e-05,0,
+Foreign Equity,0,2.03532e-05,
+
+
+Prior Precision of Views
+US Equity,0.000184566,-4.32402e-05,
+Foreign Equity,-4.32402e-05,0.000203532,
+
+
+
+
+POSTERIOR ESTIMATES
+Posterior Returns
+US Equity,Foreign Equity,Emerging Equity,
+0.0141178,0.0202809,-0.00688344,
+
+
+Posterior Retrun Distributiom
+,US Equity,Foreign Equity,Emerging Equity,
+US Equity,0.00186244,0.00161313,0.00204946,
+Foreign Equity,0.00161313,0.00254769,0.00250232,
+Emerging Equity,0.00204946,0.00250232,0.00451077,
+
+
+
+
+Portfolio Optimization
+Unconstrained Optimization using Matrices
+US Equity,Foreign Equity,Emerging Equity,
+3.3293,5.56057,-5.10603,
+
+
+Optimized Weight constrained to 1
+US Equity,Foreign Equity,Emerging Equity,
+0.879872,1.46956,-1.34943,
+
+
+
+Expected return,0.05151455300597464
+Opt Variance,0.004538109975468759
+Opt Standard Dev,0.06736549543697247
+Opt Sharpe ratio,0.7647023549937659Risk Aversion,3.0
+Tau,0.1
+Market Variance,0.0019293205298343199
+Market Exp. Excess Return,0.00578796158950296
+Standard Deviation,0.043924031347706685
+Sharpe Ratio,0.13177209404312007
+
+
+Market Weights
+US Equity,Foreign Equity,Emerging Equity,
+0.5,0.4,0.1,
+
+
+Prior Returns
+US Equity,Foreign Equity,Emerging Equity,
+ 0.00529611,0.00604146,0.00723321,
+
+
+Covariance * tau
+,US Equity,Foreign Equity,Emerging Equity,
+US Equity,0.000184566,0.00015986,0.0002031,
+Foreign Equity,0.00015986,0.000243803,0.000239307,
+Emerging Equity,0.0002031,0.000239307,0.000438342,
+
+
+
+
+VIEWS
+P,US Equity,Foreign Equity,Emerging Equity,
+view1,1,0,0,
+view2,0,1,-1,
+
+
+,Q
+US Equity,0.015,
+Foreign Equity,0.03,
+
+
+Omega
+US Equity,1.84566e-05,-4.32402e-06,
+Foreign Equity,-4.32402e-06,2.03532e-05,
+
+
+Diagonal Omega
+US Equity,1.84566e-05,0,
+Foreign Equity,0,2.03532e-05,
+
+
+Prior Precision of Views
+US Equity,0.000184566,-4.32402e-05,
+Foreign Equity,-4.32402e-05,0.000203532,
+
+
+
+
+POSTERIOR ESTIMATES
+Posterior Returns
+US Equity,Foreign Equity,Emerging Equity,
+0.0141178,0.0202809,-0.00688344,
+
+
+Posterior Retrun Distributiom
+,US Equity,Foreign Equity,Emerging Equity,
+US Equity,0.00186244,0.00161313,0.00204946,
+Foreign Equity,0.00161313,0.00254769,0.00250232,
+Emerging Equity,0.00204946,0.00250232,0.00451077,
+
+
+
+
+Portfolio Optimization
+Unconstrained Optimization using Matrices
+US Equity,Foreign Equity,Emerging Equity,
+3.3293,5.56057,-5.10603,
+
+
+Optimized Weight constrained to 1
+US Equity,Foreign Equity,Emerging Equity,
+0.879872,1.46956,-1.34943,
+
+
+
+Expected return,0.05151455300597464
+Opt Variance,0.004538109975468759
+Opt Standard Dev,0.06736549543697247
+Opt Sharpe ratio,0.7647023549937659
